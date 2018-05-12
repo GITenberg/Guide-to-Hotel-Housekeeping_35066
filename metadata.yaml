@@ -1,0 +1,28 @@
+_repo: Guide-to-Hotel-Housekeeping_35066
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palmer, Mary E. (Mary Elizabeth)
+    birthdate: 1868
+    gutenberg_agent_id: '37440'
+    url: http://www.gutenberg.org/2009/agents/37440
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2011-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35066'
+  lccn: 08013628
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hotels'
+- !lcc 'TX'
+- !lcsh 'Home economics'
+title: Guide to Hotel Housekeeping
+url: http://www.gutenberg.org/ebooks/35066
